@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p align="center">Updated na dapat ito. Mwahhaahahah </p>
+        <p align="center">Updated na dapat ulit ito. Mwahhaahahah </p>
         
         <hr></hr>
         <h3>
@@ -39,7 +39,7 @@ export default function Home() {
 
           <h3>Favorite Song</h3>
           <p>
-            My Favorite music as of now is Mundo by IVOS.
+            My Favorite music as of now is I.N.A.S. by Zild!!!
           </p>
 
           <hr></hr>
